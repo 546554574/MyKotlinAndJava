@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">小车调度</string>
+    <string name="action_settings">Settings</string>
+    <string name="update_notice_nomemory">内存不足</string>
+    <string name="update_notice_error">下载失败</string>
+    <string name="update_notice_install">下载完成，点击安装</string>
+	<string name="cancel">取消</string>
+</resources>

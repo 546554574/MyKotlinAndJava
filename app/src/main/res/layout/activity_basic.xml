@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent">
+	
+	<LinearLayout
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:orientation="vertical">
+		
+		<RelativeLayout
+			android:id="@+id/toolbar"
+			android:layout_width="match_parent"
+			android:layout_height="@dimen/dp_60"
+			android:background="@mipmap/bg_basic">
+			
+			<LinearLayout
+				android:id="@+id/left_ll"
+				android:layout_width="wrap_content"
+				android:layout_height="match_parent"
+				android:gravity="left|center_vertical">
+				
+				<ImageView
+					android:id="@+id/left_iv"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:layout_marginLeft="@dimen/dp_6"
+					android:src="@mipmap/iv_back_light" />
+				
+				<TextView
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:paddingLeft="5dp"
+					android:paddingRight="5dp"
+					android:tag="skin:title_text_color_textColor"
+					android:textColor="@color/title_text_color"
+					android:textSize="@dimen/head_line"
+					android:visibility="gone" />
+			</LinearLayout>
+			
+			<TextView
+				android:id="@+id/title_tv"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_centerInParent="true"
+				android:ellipsize="end"
+				android:lines="1"
+				android:text="我是标题"
+				android:textColor="@color/basic_color"
+				android:textSize="17sp" />
+			
+			<TextView
+				android:id="@+id/right_tv"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_alignParentRight="true"
+				android:layout_centerVertical="true"
+				android:layout_gravity="right|center_vertical"
+				android:layout_marginRight="@dimen/dp_11"
+				android:tag="skin:title_text_color_textColor"
+				android:text="筛选"
+				android:textColor="@color/white"
+				android:textSize="@dimen/small_text"
+				android:visibility="gone" />
+			
+			<ImageView
+				android:id="@+id/right_iv"
+				android:layout_width="@dimen/dp_14"
+				android:layout_height="@dimen/dp_14"
+				android:layout_gravity="right|center_vertical"
+				android:layout_marginRight="@dimen/dp_25"
+				android:visibility="gone" />
+		</RelativeLayout>
+		
+		<RelativeLayout
+			android:id="@+id/basic_view"
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"
+			android:background="@color/root_view_bg">
+		
+		</RelativeLayout>
+	</LinearLayout>
+	
+	<include layout="@layout/layout_loading" />
+
+</RelativeLayout>

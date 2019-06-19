@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    <RelativeLayout
+        android:layout_width="@dimen/dp_292"
+        android:layout_height="@dimen/dp_203"
+        android:background="@mipmap/bg_cleardialog">
+        <ImageView
+            android:id="@+id/iv_close"
+            android:layout_width="@dimen/dp_48"
+            android:layout_height="@dimen/dp_28"
+            android:src="@mipmap/ic_dialog_close"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="@dimen/dp_7"
+            android:layout_marginTop="@dimen/dp_7"/>
+        <TextView
+            android:id="@+id/tv_content"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="确定释放该车"
+            android:layout_centerHorizontal="true"
+            android:textColor="#ffdeeff7"
+            android:textSize="@dimen/text_17"
+            android:layout_marginTop="@dimen/dp_58"/>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/dp_124"
+            android:layout_centerHorizontal="true">
+
+        <Button
+            android:id="@+id/tv_cancel"
+            android:layout_width="@dimen/dp_111"
+            android:layout_height="@dimen/dp_34"
+            android:text="取消"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:textSize="@dimen/text_17"
+            android:background="@drawable/bg_cancel_button"/>
+            <Button
+                android:id="@+id/tv_sure"
+                android:layout_width="@dimen/dp_111"
+                android:layout_height="@dimen/dp_34"
+                android:text="确定"
+                android:gravity="center"
+                android:textColor="@color/white"
+                android:textSize="@dimen/text_17"
+                android:background="@drawable/bg_sure_button"
+                android:layout_marginLeft="@dimen/dp_25"/>
+        </LinearLayout>
+    </RelativeLayout>
+</LinearLayout>

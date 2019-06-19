@@ -1,0 +1,26 @@
+ext {
+    android = [
+            compileSdkVersion: 28,
+            minSdkVersion    : 16,
+            targetSdkVersion : 28,
+            versionCode      : 1,
+            versionName      : "1.0.01"
+    ]
+
+    utillib = [
+            versionCode: 1,
+            versionName: "1.0"
+    ]
+    changeskin = [
+            versionCode: 1,
+            versionName: "1.0"
+    ]
+
+
+    dependencies = [
+            appcompat_v7   : 'com.android.support:appcompat-v7:28.0.0',
+            design         : 'com.android.support:design:28.0.0',
+            support_util   : 'com.android.support:support-core-utils:28.0.0',
+            recyclerview_v7: 'com.android.support:recyclerview-v7:28.0.0',
+    ]
+}

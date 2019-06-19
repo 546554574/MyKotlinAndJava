@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="MapView">
+        <attr name="map_width" format="float"></attr>
+        <attr name="map_height" format="float"></attr>
+        <attr name="map_line_color" format="color"></attr>
+        <attr name="map_point_color" format="color"></attr>
+        <attr name="map_text_color" format="color"></attr>
+        <attr name="map_text_size" format="dimension"></attr>
+    </declare-styleable>
+</resources>
