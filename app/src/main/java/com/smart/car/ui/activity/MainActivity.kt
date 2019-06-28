@@ -1,28 +1,22 @@
 package com.smart.car.ui.activity
 
-import android.Manifest
 import android.app.Service
 import android.content.ComponentName
 import android.content.Intent
 import android.content.ServiceConnection
-import android.content.pm.PackageManager
 import android.os.Bundle
 import android.os.Handler
 import android.os.IBinder
-import android.support.v4.app.ActivityCompat
 import android.support.v4.app.Fragment
 import android.support.v4.app.FragmentManager
 import android.util.Log
 import android.view.View
-import android.widget.Toast
 import com.blankj.rxbus.RxBus
 import com.smart.car.R
-import com.smart.car.api.DownLoadFileUtils
 import com.smart.car.api.DownLoadFileUtils.DownListener
 import com.smart.car.api.ServiceManager
 import com.smart.car.base.AppConstant
 import com.smart.car.base.BaseActivity
-import com.smart.car.base.BaseFragment
 import com.smart.car.base.MyUtil
 import com.smart.car.busmsg.GoToMissionFragmentMsg
 import com.smart.car.busmsg.SendMsg
@@ -42,10 +36,7 @@ import com.smart.util.rxtool.*
 import com.smart.util.rxtool.view.RxToast
 import com.smart.util.rxview.dialog.RxDialogSure
 import kotlinx.android.synthetic.main.activity_basic.*
-import kotlinx.android.synthetic.main.activity_main.*
 import org.json.JSONObject
-import java.util.*
-import java.util.concurrent.ThreadPoolExecutor
 
 
 class MainActivity : BaseActivity<MainView, MainActivityPresenter>(), MainView {
