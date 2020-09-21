@@ -14,7 +14,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 */
 
-package com.smart.util.rxview.scaleimage;
+package com.zydl.util.rxview.scaleimage;
 
 import android.graphics.PointF;
 

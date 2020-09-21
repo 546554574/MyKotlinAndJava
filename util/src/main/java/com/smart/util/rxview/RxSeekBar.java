@@ -1,4 +1,4 @@
-package com.smart.util.rxview;
+package com.zydl.util.rxview;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
@@ -24,8 +24,8 @@ import android.util.AttributeSet;
 import android.view.MotionEvent;
 import android.view.View;
 
-import com.smart.util.R;
-import com.smart.util.rxtool.RxImageTool;
+import com.zydl.util.R;
+import com.zydl.util.rxtool.RxImageTool;
 
 
 /**

@@ -1,4 +1,4 @@
-package com.smart.util.rxview.popupwindows.tools;
+package com.zydl.util.rxview.popupwindows.tools;
 
 import android.content.Context;
 import android.graphics.PorterDuff;
@@ -6,7 +6,7 @@ import android.graphics.drawable.Drawable;
 import android.os.Build;
 import android.view.View;
 
-import com.smart.util.R;
+import com.zydl.util.R;
 
 
 /**

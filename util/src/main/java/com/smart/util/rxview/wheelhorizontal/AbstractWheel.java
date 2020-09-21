@@ -1,4 +1,4 @@
-package com.smart.util.rxview.wheelhorizontal;
+package com.zydl.util.rxview.wheelhorizontal;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -12,7 +12,7 @@ import android.view.animation.Interpolator;
 import android.widget.LinearLayout;
 
 
-import com.smart.util.R;
+import com.zydl.util.R;
 
 import java.util.LinkedList;
 import java.util.List;

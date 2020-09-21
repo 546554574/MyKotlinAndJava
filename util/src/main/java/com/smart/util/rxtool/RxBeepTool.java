@@ -1,4 +1,4 @@
-package com.smart.util.rxtool;
+package com.zydl.util.rxtool;
 
 import android.app.Activity;
 import android.content.res.AssetFileDescriptor;
@@ -6,7 +6,7 @@ import android.media.AudioManager;
 import android.media.MediaPlayer;
 
 
-import com.smart.util.R;
+import com.zydl.util.R;
 
 import java.io.IOException;
 

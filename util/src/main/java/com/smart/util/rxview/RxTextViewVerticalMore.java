@@ -1,4 +1,4 @@
-package com.smart.util.rxview;
+package com.zydl.util.rxview;
 
 import android.content.Context;
 import android.util.AttributeSet;
@@ -8,7 +8,7 @@ import android.view.animation.AnimationUtils;
 import android.widget.ViewFlipper;
 
 
-import com.smart.util.R;
+import com.zydl.util.R;
 
 import java.util.List;
 

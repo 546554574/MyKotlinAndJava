@@ -1,4 +1,4 @@
-package com.smart.util.rxview.likeview.tools.ei;
+package com.zydl.util.rxview.likeview.tools.ei;
 
 /**
  * @author vondear

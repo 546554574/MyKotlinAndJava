@@ -1,4 +1,4 @@
-package com.smart.util.rxtool;
+package com.zydl.util.rxtool;
 
 import android.os.Build;
 import android.support.annotation.Nullable;
@@ -20,10 +20,10 @@ import java.util.Collection;
 import java.util.Locale;
 import java.util.Map;
 
-import static com.smart.util.rxtool.RxConstTool.BYTE;
-import static com.smart.util.rxtool.RxConstTool.GB;
-import static com.smart.util.rxtool.RxConstTool.KB;
-import static com.smart.util.rxtool.RxConstTool.MB;
+import static com.zydl.util.rxtool.RxConstTool.BYTE;
+import static com.zydl.util.rxtool.RxConstTool.GB;
+import static com.zydl.util.rxtool.RxConstTool.KB;
+import static com.zydl.util.rxtool.RxConstTool.MB;
 
 /**
  * @author vondear

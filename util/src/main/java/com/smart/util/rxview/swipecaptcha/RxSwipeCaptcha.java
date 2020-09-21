@@ -1,4 +1,4 @@
-package com.smart.util.rxview.swipecaptcha;
+package com.zydl.util.rxview.swipecaptcha;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
@@ -24,7 +24,7 @@ import android.util.Log;
 import android.util.TypedValue;
 
 
-import com.smart.util.R;
+import com.zydl.util.R;
 
 import java.util.Random;
 

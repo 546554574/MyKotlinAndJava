@@ -1,9 +1,9 @@
-package com.smart.util.rxview.progressing.style;
+package com.zydl.util.rxview.progressing.style;
 
 import android.animation.ValueAnimator;
 
-import com.smart.util.rxview.progressing.animation.SpriteAnimatorBuilder;
-import com.smart.util.rxview.progressing.sprite.CircleSprite;
+import com.zydl.util.rxview.progressing.animation.SpriteAnimatorBuilder;
+import com.zydl.util.rxview.progressing.sprite.CircleSprite;
 
 
 /**

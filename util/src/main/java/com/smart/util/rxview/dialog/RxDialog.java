@@ -1,4 +1,4 @@
-package com.smart.util.rxview.dialog;
+package com.zydl.util.rxview.dialog;
 
 import android.app.Dialog;
 import android.content.Context;
@@ -7,7 +7,7 @@ import android.view.Gravity;
 import android.view.Window;
 import android.view.WindowManager.LayoutParams;
 
-import com.smart.util.R;
+import com.zydl.util.R;
 
 
 /**

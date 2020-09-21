@@ -1,4 +1,4 @@
-package com.smart.util.rxview.dialog.shapeloadingview;
+package com.zydl.util.rxview.dialog.shapeloadingview;
 
 import android.animation.ArgbEvaluator;
 import android.annotation.TargetApi;
@@ -12,7 +12,7 @@ import android.view.View;
 import android.view.animation.DecelerateInterpolator;
 import android.view.animation.Interpolator;
 
-import com.smart.util.R;
+import com.zydl.util.R;
 
 
 /**

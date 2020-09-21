@@ -1,4 +1,4 @@
-package com.smart.util.rxtool;
+package com.zydl.util.rxtool;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
@@ -9,7 +9,7 @@ import android.net.NetworkInfo;
 import android.os.Build;
 import android.telephony.TelephonyManager;
 
-import com.smart.util.rxtool.view.RxToast;
+import com.zydl.util.rxtool.view.RxToast;
 
 import java.io.BufferedReader;
 import java.io.IOException;

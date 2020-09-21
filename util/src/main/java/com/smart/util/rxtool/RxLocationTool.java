@@ -1,4 +1,4 @@
-package com.smart.util.rxtool;
+package com.zydl.util.rxtool;
 
 import android.Manifest;
 import android.annotation.SuppressLint;
@@ -19,8 +19,8 @@ import android.support.v4.app.ActivityCompat;
 import android.support.v4.content.ContextCompat;
 import android.util.Log;
 
-import com.smart.util.rxtool.model.Gps;
-import com.smart.util.rxtool.view.RxToast;
+import com.zydl.util.rxtool.model.Gps;
+import com.zydl.util.rxtool.view.RxToast;
 
 import java.io.IOException;
 import java.text.DecimalFormat;

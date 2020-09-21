@@ -1,4 +1,4 @@
-package com.smart.util.rxview.colorpicker.slider;
+package com.zydl.util.rxview.colorpicker.slider;
 
 /**
  * @author vondear

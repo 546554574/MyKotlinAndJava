@@ -1,4 +1,4 @@
-package com.smart.util.rxview.progressing.animation;
+package com.zydl.util.rxview.progressing.animation;
 
 import android.animation.Keyframe;
 import android.animation.ObjectAnimator;
@@ -8,8 +8,8 @@ import android.view.animation.Animation;
 import android.view.animation.Interpolator;
 
 
-import com.smart.util.rxview.progressing.animation.interpolator.KeyFrameInterpolator;
-import com.smart.util.rxview.progressing.sprite.Sprite;
+import com.zydl.util.rxview.progressing.animation.interpolator.KeyFrameInterpolator;
+import com.zydl.util.rxview.progressing.sprite.Sprite;
 
 import java.util.ArrayList;
 import java.util.List;

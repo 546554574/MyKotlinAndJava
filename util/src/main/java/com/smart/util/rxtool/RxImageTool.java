@@ -1,4 +1,4 @@
-package com.smart.util.rxtool;
+package com.zydl.util.rxtool;
 
 import android.annotation.TargetApi;
 import android.content.res.Resources;

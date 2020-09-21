@@ -1,4 +1,4 @@
-package com.smart.util.rxview.roundprogressbar;
+package com.zydl.util.rxview.roundprogressbar;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -16,8 +16,8 @@ import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import com.smart.util.R;
-import com.smart.util.rxview.roundprogressbar.common.RxBaseRoundProgressBar;
+import com.zydl.util.R;
+import com.zydl.util.rxview.roundprogressbar.common.RxBaseRoundProgressBar;
 
 
 /**

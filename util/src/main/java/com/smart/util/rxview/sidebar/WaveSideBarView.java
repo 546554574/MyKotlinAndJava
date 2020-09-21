@@ -1,4 +1,4 @@
-package com.smart.util.rxview.sidebar;
+package com.zydl.util.rxview.sidebar;
 
 import android.animation.ValueAnimator;
 import android.content.Context;
@@ -14,7 +14,7 @@ import android.view.MotionEvent;
 import android.view.View;
 
 
-import com.smart.util.R;
+import com.zydl.util.R;
 
 import java.util.Arrays;
 import java.util.List;

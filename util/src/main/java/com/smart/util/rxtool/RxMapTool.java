@@ -1,10 +1,10 @@
-package com.smart.util.rxtool;
+package com.zydl.util.rxtool;
 
 import android.content.Context;
 import android.content.Intent;
 import android.net.Uri;
 
-import com.smart.util.rxtool.model.Gps;
+import com.zydl.util.rxtool.model.Gps;
 
 
 /**

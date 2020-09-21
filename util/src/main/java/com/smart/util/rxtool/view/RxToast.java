@@ -1,4 +1,4 @@
-package com.smart.util.rxtool.view;
+package com.zydl.util.rxtool.view;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
@@ -19,8 +19,8 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.smart.util.R;
-import com.smart.util.rxtool.RxTool;
+import com.zydl.util.R;
+import com.zydl.util.rxtool.RxTool;
 
 
 /**

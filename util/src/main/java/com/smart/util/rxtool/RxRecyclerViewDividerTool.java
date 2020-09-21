@@ -1,4 +1,4 @@
-package com.smart.util.rxtool;
+package com.zydl.util.rxtool;
 
 import android.graphics.Rect;
 import android.support.v7.widget.RecyclerView;

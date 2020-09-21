@@ -1,4 +1,4 @@
-package com.smart.util.rxview.webview;
+package com.zydl.util.rxview.webview;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -11,7 +11,7 @@ import android.os.Parcelable;
 import android.util.AttributeSet;
 import android.view.View;
 
-import com.smart.util.R;
+import com.zydl.util.R;
 
 
 /**

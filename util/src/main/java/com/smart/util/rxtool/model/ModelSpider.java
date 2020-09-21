@@ -1,4 +1,4 @@
-package com.smart.util.rxtool.model;
+package com.zydl.util.rxtool.model;
 
 /**
  * @author Vondear

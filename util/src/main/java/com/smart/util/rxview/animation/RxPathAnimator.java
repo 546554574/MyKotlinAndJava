@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.smart.util.rxview.animation;
+package com.zydl.util.rxview.animation;
 
 import android.os.Handler;
 import android.os.Looper;

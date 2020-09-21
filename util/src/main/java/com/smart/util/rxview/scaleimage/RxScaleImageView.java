@@ -14,7 +14,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 */
 
-package com.smart.util.rxview.scaleimage;
+package com.zydl.util.rxview.scaleimage;
 
 import android.content.ContentResolver;
 import android.content.Context;
@@ -49,13 +49,13 @@ import android.view.View;
 import android.view.ViewParent;
 
 
-import com.smart.util.R;
-import com.smart.util.rxview.scaleimage.decoder.CompatDecoderFactory;
-import com.smart.util.rxview.scaleimage.decoder.DecoderFactory;
-import com.smart.util.rxview.scaleimage.decoder.ImageDecoder;
-import com.smart.util.rxview.scaleimage.decoder.ImageRegionDecoder;
-import com.smart.util.rxview.scaleimage.decoder.SkiaImageDecoder;
-import com.smart.util.rxview.scaleimage.decoder.SkiaImageRegionDecoder;
+import com.zydl.util.R;
+import com.zydl.util.rxview.scaleimage.decoder.CompatDecoderFactory;
+import com.zydl.util.rxview.scaleimage.decoder.DecoderFactory;
+import com.zydl.util.rxview.scaleimage.decoder.ImageDecoder;
+import com.zydl.util.rxview.scaleimage.decoder.ImageRegionDecoder;
+import com.zydl.util.rxview.scaleimage.decoder.SkiaImageDecoder;
+import com.zydl.util.rxview.scaleimage.decoder.SkiaImageRegionDecoder;
 
 import java.lang.ref.WeakReference;
 import java.lang.reflect.Field;

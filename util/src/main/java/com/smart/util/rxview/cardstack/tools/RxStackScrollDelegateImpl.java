@@ -1,8 +1,8 @@
-package com.smart.util.rxview.cardstack.tools;
+package com.zydl.util.rxview.cardstack.tools;
 
 import android.view.View;
 
-import com.smart.util.rxview.cardstack.RxCardStackView;
+import com.zydl.util.rxview.cardstack.RxCardStackView;
 
 
 /**

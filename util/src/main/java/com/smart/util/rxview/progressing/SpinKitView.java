@@ -1,4 +1,4 @@
-package com.smart.util.rxview.progressing;
+package com.zydl.util.rxview.progressing;
 
 import android.annotation.TargetApi;
 import android.content.Context;
@@ -10,8 +10,8 @@ import android.util.AttributeSet;
 import android.view.View;
 import android.widget.ProgressBar;
 
-import com.smart.util.R;
-import com.smart.util.rxview.progressing.sprite.Sprite;
+import com.zydl.util.R;
+import com.zydl.util.rxview.progressing.sprite.Sprite;
 
 
 /**

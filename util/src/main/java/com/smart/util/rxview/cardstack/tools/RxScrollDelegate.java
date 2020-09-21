@@ -1,4 +1,4 @@
-package com.smart.util.rxview.cardstack.tools;
+package com.zydl.util.rxview.cardstack.tools;
 
 /**
  * @author vondear

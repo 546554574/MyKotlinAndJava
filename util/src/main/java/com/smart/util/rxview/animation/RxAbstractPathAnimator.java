@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.smart.util.rxview.animation;
+package com.zydl.util.rxview.animation;
 
 import android.content.res.Resources;
 import android.content.res.TypedArray;
@@ -22,7 +22,7 @@ import android.view.View;
 import android.view.ViewGroup;
 
 
-import com.smart.util.R;
+import com.zydl.util.R;
 
 import java.util.Random;
 import java.util.concurrent.atomic.AtomicInteger;

@@ -1,4 +1,4 @@
-package com.smart.util.rxview;
+package com.zydl.util.rxview;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -11,7 +11,7 @@ import android.widget.RelativeLayout;
 import android.widget.TextView;
 
 
-import com.smart.util.R;
+import com.zydl.util.R;
 
 import java.text.DecimalFormat;
 

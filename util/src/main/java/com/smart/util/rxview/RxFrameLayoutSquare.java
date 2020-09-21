@@ -1,4 +1,4 @@
-package com.smart.util.rxview;
+package com.zydl.util.rxview;
 
 import android.annotation.TargetApi;
 import android.content.Context;

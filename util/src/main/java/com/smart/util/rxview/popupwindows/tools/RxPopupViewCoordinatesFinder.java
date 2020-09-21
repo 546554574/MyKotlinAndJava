@@ -1,4 +1,4 @@
-package com.smart.util.rxview.popupwindows.tools;
+package com.zydl.util.rxview.popupwindows.tools;
 
 import android.graphics.Point;
 import android.view.View;

@@ -1,4 +1,4 @@
-package com.smart.util.rxview.ticker;
+package com.zydl.util.rxview.ticker;
 
 /**
  * @author vondear

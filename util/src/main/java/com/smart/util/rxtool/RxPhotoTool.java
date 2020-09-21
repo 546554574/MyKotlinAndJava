@@ -1,4 +1,4 @@
-package com.smart.util.rxtool;
+package com.zydl.util.rxtool;
 
 import android.Manifest;
 import android.annotation.TargetApi;
@@ -20,17 +20,17 @@ import android.support.v4.content.ContextCompat;
 import android.util.Log;
 
 
-import com.smart.util.rxtool.view.RxToast;
+import com.zydl.util.rxtool.view.RxToast;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Locale;
 
-import static com.smart.util.rxtool.RxFileTool.getDataColumn;
-import static com.smart.util.rxtool.RxFileTool.isDownloadsDocument;
-import static com.smart.util.rxtool.RxFileTool.isExternalStorageDocument;
-import static com.smart.util.rxtool.RxFileTool.isGooglePhotosUri;
-import static com.smart.util.rxtool.RxFileTool.isMediaDocument;
+import static com.zydl.util.rxtool.RxFileTool.getDataColumn;
+import static com.zydl.util.rxtool.RxFileTool.isDownloadsDocument;
+import static com.zydl.util.rxtool.RxFileTool.isExternalStorageDocument;
+import static com.zydl.util.rxtool.RxFileTool.isGooglePhotosUri;
+import static com.zydl.util.rxtool.RxFileTool.isMediaDocument;
 
 /**
  *

@@ -1,4 +1,4 @@
-package com.smart.util.rxtool.service;
+package com.zydl.util.rxtool.service;
 
 import android.app.Service;
 import android.content.Intent;
@@ -9,8 +9,8 @@ import android.os.IBinder;
 import android.os.Looper;
 import android.support.annotation.Nullable;
 
-import com.smart.util.rxtool.RxLocationTool;
-import com.smart.util.rxtool.view.RxToast;
+import com.zydl.util.rxtool.RxLocationTool;
+import com.zydl.util.rxtool.view.RxToast;
 
 
 /**

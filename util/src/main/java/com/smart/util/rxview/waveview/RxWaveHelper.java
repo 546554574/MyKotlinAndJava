@@ -1,4 +1,4 @@
-package com.smart.util.rxview.waveview;
+package com.zydl.util.rxview.waveview;
 
 import android.animation.Animator;
 import android.animation.AnimatorSet;

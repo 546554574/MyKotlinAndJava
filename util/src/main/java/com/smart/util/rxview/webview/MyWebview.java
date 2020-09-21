@@ -1,4 +1,4 @@
-package com.smart.util.rxview.webview;
+package com.zydl.util.rxview.webview;
 
 import android.content.Context;
 import android.graphics.Color;
@@ -14,7 +14,7 @@ import android.webkit.WebViewClient;
 import android.widget.LinearLayout;
 import android.widget.ProgressBar;
 
-import com.smart.util.rxview.progressing.style.ThreeBounce;
+import com.zydl.util.rxview.progressing.style.ThreeBounce;
 
 public class MyWebview extends WebView {
     private NumberProgressBar progressbar;  //进度条

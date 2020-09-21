@@ -1,11 +1,11 @@
-package com.smart.util.rxview.cardstack.tools;
+package com.zydl.util.rxview.cardstack.tools;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
 import android.animation.AnimatorSet;
 import android.view.animation.AccelerateDecelerateInterpolator;
 
-import com.smart.util.rxview.cardstack.RxCardStackView;
+import com.zydl.util.rxview.cardstack.RxCardStackView;
 
 
 /**

@@ -1,4 +1,4 @@
-package com.smart.util.rxview.progressing.animation;
+package com.zydl.util.rxview.progressing.animation;
 
 import android.util.Property;
 

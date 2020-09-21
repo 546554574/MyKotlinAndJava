@@ -1,4 +1,4 @@
-package com.smart.util.rxview.popupwindows.tools;
+package com.zydl.util.rxview.popupwindows.tools;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
@@ -13,7 +13,7 @@ import android.view.ViewOutlineProvider;
 import android.widget.TextView;
 
 
-import com.smart.util.rxtool.RxAnimationTool;
+import com.zydl.util.rxtool.RxAnimationTool;
 
 import java.util.HashMap;
 import java.util.Map;

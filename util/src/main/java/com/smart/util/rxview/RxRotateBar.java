@@ -1,4 +1,4 @@
-package com.smart.util.rxview;
+package com.zydl.util.rxview;
 
 import android.animation.Animator;
 import android.animation.ValueAnimator;
@@ -14,8 +14,8 @@ import android.view.animation.LinearInterpolator;
 import android.widget.FrameLayout;
 
 
-import com.smart.util.R;
-import com.smart.util.rxtool.RxImageTool;
+import com.zydl.util.R;
+import com.zydl.util.rxtool.RxImageTool;
 
 import java.util.ArrayList;
 

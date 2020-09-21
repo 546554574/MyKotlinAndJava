@@ -1,4 +1,4 @@
-package com.smart.util.rxview.colorpicker;
+package com.zydl.util.rxview.colorpicker;
 
 import android.graphics.Color;
 

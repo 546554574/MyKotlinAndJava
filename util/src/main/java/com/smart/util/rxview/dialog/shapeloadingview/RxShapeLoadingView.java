@@ -1,4 +1,4 @@
-package com.smart.util.rxview.dialog.shapeloadingview;
+package com.zydl.util.rxview.dialog.shapeloadingview;
 
 import android.animation.Animator;
 import android.animation.AnimatorSet;
@@ -17,7 +17,7 @@ import android.widget.FrameLayout;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.smart.util.R;
+import com.zydl.util.R;
 
 
 /**

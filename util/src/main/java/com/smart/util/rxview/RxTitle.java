@@ -1,4 +1,4 @@
-package com.smart.util.rxview;
+package com.zydl.util.rxview;
 
 import android.app.Activity;
 import android.content.Context;
@@ -13,10 +13,10 @@ import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import com.smart.util.R;
-import com.smart.util.rxtool.RxDataTool;
-import com.smart.util.rxtool.RxImageTool;
-import com.smart.util.rxtool.RxKeyboardTool;
+import com.zydl.util.R;
+import com.zydl.util.rxtool.RxDataTool;
+import com.zydl.util.rxtool.RxImageTool;
+import com.zydl.util.rxtool.RxKeyboardTool;
 
 /**
  * @author vondear

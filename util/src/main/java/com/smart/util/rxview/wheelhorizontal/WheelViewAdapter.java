@@ -1,4 +1,4 @@
-package com.smart.util.rxview.wheelhorizontal;
+package com.zydl.util.rxview.wheelhorizontal;
 
 import android.database.DataSetObserver;
 import android.view.View;

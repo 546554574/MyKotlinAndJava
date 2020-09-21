@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.smart.util.rxtool;
+package com.zydl.util.rxtool;
 
 import android.annotation.SuppressLint;
 import android.annotation.TargetApi;
@@ -59,7 +59,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Vector;
 
-import static com.smart.util.rxtool.RxConstTool.KB;
+import static com.zydl.util.rxtool.RxConstTool.KB;
 
 
 //import android.util.Log;

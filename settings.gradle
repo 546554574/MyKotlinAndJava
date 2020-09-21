@@ -1,1 +1,1 @@
-include ':app', ':util', ':RxUI', ':RxKit', ':pickerview', ':RxFeature'
+include ':app', ':RxUI', ':RxKit', ':pickerview', ':RxFeature'

@@ -1,4 +1,4 @@
-package com.smart.util.rxview.ticker;
+package com.zydl.util.rxview.ticker;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
@@ -21,7 +21,7 @@ import android.view.View;
 import android.view.animation.AccelerateDecelerateInterpolator;
 import android.view.animation.Interpolator;
 
-import com.smart.util.R;
+import com.zydl.util.R;
 
 
 /**

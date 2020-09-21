@@ -1,4 +1,4 @@
-package com.smart.util.rxview.likeview.tools;
+package com.zydl.util.rxview.likeview.tools;
 
 import android.animation.Animator;
 import android.animation.ValueAnimator;
@@ -10,10 +10,10 @@ import android.graphics.RectF;
 import android.util.AttributeSet;
 import android.view.View;
 
-import com.smart.util.rxview.animation.RxShineAnimator;
-import com.smart.util.rxview.likeview.RxShineButton;
-import com.smart.util.rxview.likeview.tools.ei.RxEase;
-import com.smart.util.rxview.likeview.tools.ei.RxEasingInterpolator;
+import com.zydl.util.rxview.animation.RxShineAnimator;
+import com.zydl.util.rxview.likeview.RxShineButton;
+import com.zydl.util.rxview.likeview.tools.ei.RxEase;
+import com.zydl.util.rxview.likeview.tools.ei.RxEasingInterpolator;
 
 import java.util.Random;
 

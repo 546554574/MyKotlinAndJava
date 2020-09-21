@@ -1,4 +1,4 @@
-package com.smart.util.rxview.scaleimage;
+package com.zydl.util.rxview.scaleimage;
 
 import android.graphics.Bitmap;
 import android.graphics.Rect;

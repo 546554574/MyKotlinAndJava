@@ -1,4 +1,4 @@
-package com.smart.util.rxview.dialog.wheel;
+package com.zydl.util.rxview.dialog.wheel;
 
 import android.content.Context;
 import android.database.DataSetObserver;
@@ -13,7 +13,7 @@ import android.view.ViewGroup.LayoutParams;
 import android.view.animation.Interpolator;
 import android.widget.LinearLayout;
 
-import com.smart.util.R;
+import com.zydl.util.R;
 
 import java.util.LinkedList;
 import java.util.List;

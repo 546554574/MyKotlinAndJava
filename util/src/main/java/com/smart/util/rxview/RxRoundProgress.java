@@ -1,4 +1,4 @@
-package com.smart.util.rxview;
+package com.zydl.util.rxview;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -10,8 +10,8 @@ import android.graphics.Typeface;
 import android.util.AttributeSet;
 import android.view.View;
 
-import com.smart.util.R;
-import com.smart.util.rxtool.RxDataTool;
+import com.zydl.util.R;
+import com.zydl.util.rxtool.RxDataTool;
 
 
 /**

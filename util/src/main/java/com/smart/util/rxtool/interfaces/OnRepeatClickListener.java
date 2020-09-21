@@ -1,9 +1,9 @@
-package com.smart.util.rxtool.interfaces;
+package com.zydl.util.rxtool.interfaces;
 
 import android.view.View;
 
-import com.smart.util.rxtool.RxTool;
-import com.smart.util.rxtool.view.RxToast;
+import com.zydl.util.rxtool.RxTool;
+import com.zydl.util.rxtool.view.RxToast;
 
 
 /**

@@ -1,4 +1,4 @@
-package com.smart.util.rxtool.module.photomagic;
+package com.zydl.util.rxtool.module.photomagic;
 
 import android.content.Context;
 import android.os.AsyncTask;

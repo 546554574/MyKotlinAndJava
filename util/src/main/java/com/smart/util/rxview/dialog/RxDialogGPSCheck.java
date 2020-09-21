@@ -1,11 +1,11 @@
-package com.smart.util.rxview.dialog;
+package com.zydl.util.rxview.dialog;
 
 import android.app.Activity;
 import android.content.Context;
 import android.graphics.Color;
 import android.view.View;
 
-import com.smart.util.rxtool.RxLocationTool;
+import com.zydl.util.rxtool.RxLocationTool;
 
 
 /**

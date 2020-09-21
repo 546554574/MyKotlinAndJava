@@ -1,4 +1,4 @@
-package com.smart.util.rxtool;
+package com.zydl.util.rxtool;
 
 import android.annotation.SuppressLint;
 import android.util.Log;
@@ -10,13 +10,13 @@ import java.util.Date;
 import java.util.Locale;
 import java.util.TimeZone;
 
-import static com.smart.util.rxtool.RxConstTool.DAY;
-import static com.smart.util.rxtool.RxConstTool.HOUR;
-import static com.smart.util.rxtool.RxConstTool.MIN;
-import static com.smart.util.rxtool.RxConstTool.MSEC;
-import static com.smart.util.rxtool.RxConstTool.SEC;
-import static com.smart.util.rxtool.RxDataTool.isNullString;
-import static com.smart.util.rxtool.RxDataTool.stringToInt;
+import static com.zydl.util.rxtool.RxConstTool.DAY;
+import static com.zydl.util.rxtool.RxConstTool.HOUR;
+import static com.zydl.util.rxtool.RxConstTool.MIN;
+import static com.zydl.util.rxtool.RxConstTool.MSEC;
+import static com.zydl.util.rxtool.RxConstTool.SEC;
+import static com.zydl.util.rxtool.RxDataTool.isNullString;
+import static com.zydl.util.rxtool.RxDataTool.stringToInt;
 
 /**
  * @author vondear

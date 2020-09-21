@@ -1,4 +1,4 @@
-package com.smart.util.rxview.likeview;
+package com.zydl.util.rxview.likeview;
 
 import android.animation.Animator;
 import android.animation.ValueAnimator;
@@ -16,9 +16,9 @@ import android.view.ViewGroup;
 import android.view.Window;
 import android.view.animation.LinearInterpolator;
 
-import com.smart.util.R;
-import com.smart.util.rxview.likeview.tools.RxPorterShapeImageView;
-import com.smart.util.rxview.likeview.tools.RxShineView;
+import com.zydl.util.R;
+import com.zydl.util.rxview.likeview.tools.RxPorterShapeImageView;
+import com.zydl.util.rxview.likeview.tools.RxShineView;
 
 
 /**

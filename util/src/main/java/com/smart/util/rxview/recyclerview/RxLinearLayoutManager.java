@@ -1,4 +1,4 @@
-package com.smart.util.rxview.recyclerview;
+package com.zydl.util.rxview.recyclerview;
 
 import android.content.Context;
 import android.support.v7.widget.LinearLayoutManager;

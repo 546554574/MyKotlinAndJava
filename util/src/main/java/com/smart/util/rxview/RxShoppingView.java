@@ -1,4 +1,4 @@
-package com.smart.util.rxview;
+package com.zydl.util.rxview;
 
 import android.animation.Animator;
 import android.animation.AnimatorSet;
@@ -18,7 +18,7 @@ import android.view.MotionEvent;
 import android.view.View;
 
 
-import com.smart.util.R;
+import com.zydl.util.R;
 
 import java.util.ArrayList;
 import java.util.Collection;

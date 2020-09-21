@@ -1,4 +1,4 @@
-package com.smart.util.rxtool.interfaces;
+package com.zydl.util.rxtool.interfaces;
 
 /**
  * @author vondear

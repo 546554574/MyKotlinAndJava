@@ -1,4 +1,4 @@
-package com.smart.util.rxview.scaleimage.decoder;
+package com.zydl.util.rxview.scaleimage.decoder;
 
 import android.content.ContentResolver;
 import android.content.Context;

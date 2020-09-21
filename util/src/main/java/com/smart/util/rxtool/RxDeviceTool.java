@@ -1,4 +1,4 @@
-package com.smart.util.rxtool;
+package com.zydl.util.rxtool;
 
 import android.Manifest;
 import android.annotation.SuppressLint;
@@ -30,7 +30,7 @@ import android.view.View;
 import android.view.WindowManager;
 
 
-import com.smart.util.rxtool.view.RxToast;
+import com.zydl.util.rxtool.view.RxToast;
 
 import org.xmlpull.v1.XmlSerializer;
 

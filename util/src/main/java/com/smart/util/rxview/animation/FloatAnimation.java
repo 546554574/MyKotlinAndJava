@@ -1,4 +1,4 @@
-package com.smart.util.rxview.animation;
+package com.zydl.util.rxview.animation;
 
 import android.graphics.Matrix;
 import android.graphics.Path;

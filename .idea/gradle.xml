@@ -13,7 +13,6 @@
             <option value="$PROJECT_DIR$/RxUI" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/pickerview" />
-            <option value="$PROJECT_DIR$/util" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

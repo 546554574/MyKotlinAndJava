@@ -1,4 +1,4 @@
-package com.smart.util.rxtool;
+package com.zydl.util.rxtool;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
@@ -18,7 +18,7 @@ import android.view.animation.LinearInterpolator;
 import android.view.animation.OvershootInterpolator;
 import android.view.animation.ScaleAnimation;
 
-import com.smart.util.rxtool.interfaces.OnDoIntListener;
+import com.zydl.util.rxtool.interfaces.OnDoIntListener;
 
 
 /**

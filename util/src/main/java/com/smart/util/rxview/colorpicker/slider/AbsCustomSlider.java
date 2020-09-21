@@ -1,4 +1,4 @@
-package com.smart.util.rxview.colorpicker.slider;
+package com.zydl.util.rxview.colorpicker.slider;
 
 import android.content.Context;
 import android.graphics.Bitmap;
@@ -9,7 +9,7 @@ import android.util.AttributeSet;
 import android.view.MotionEvent;
 import android.view.View;
 
-import com.smart.util.R;
+import com.zydl.util.R;
 
 
 /**

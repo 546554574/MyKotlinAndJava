@@ -1,4 +1,4 @@
-package com.smart.util.rxview;
+package com.zydl.util.rxview;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -15,9 +15,9 @@ import android.view.MotionEvent;
 import android.view.View;
 import android.widget.Scroller;
 
-import com.smart.util.R;
-import com.smart.util.rxtool.RxImageTool;
-import com.smart.util.rxtool.model.ModelSpider;
+import com.zydl.util.R;
+import com.zydl.util.rxtool.RxImageTool;
+import com.zydl.util.rxtool.model.ModelSpider;
 
 import java.util.ArrayList;
 import java.util.List;

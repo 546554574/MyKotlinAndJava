@@ -1,4 +1,4 @@
-package com.smart.util.rxview.dialog;
+package com.zydl.util.rxview.dialog;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
@@ -9,9 +9,9 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.ImageView;
 
-import com.smart.util.R;
-import com.smart.util.rxtool.RxIntentTool;
-import com.smart.util.rxtool.RxVibrateTool;
+import com.zydl.util.R;
+import com.zydl.util.rxtool.RxIntentTool;
+import com.zydl.util.rxtool.RxVibrateTool;
 
 /**
  * @author vondear

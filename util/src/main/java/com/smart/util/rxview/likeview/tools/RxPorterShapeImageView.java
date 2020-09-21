@@ -1,4 +1,4 @@
-package com.smart.util.rxview.likeview.tools;
+package com.zydl.util.rxview.likeview.tools;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -9,7 +9,7 @@ import android.graphics.drawable.BitmapDrawable;
 import android.graphics.drawable.Drawable;
 import android.util.AttributeSet;
 
-import com.smart.util.R;
+import com.zydl.util.R;
 
 
 /**

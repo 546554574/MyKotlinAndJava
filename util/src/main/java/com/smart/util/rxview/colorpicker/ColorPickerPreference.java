@@ -1,4 +1,4 @@
-package com.smart.util.rxview.colorpicker;
+package com.zydl.util.rxview.colorpicker;
 
 import android.content.Context;
 import android.content.DialogInterface;
@@ -14,9 +14,9 @@ import android.util.TypedValue;
 import android.view.View;
 import android.widget.ImageView;
 
-import com.smart.util.R;
-import com.smart.util.rxview.colorpicker.builder.ColorPickerClickListener;
-import com.smart.util.rxview.colorpicker.builder.ColorPickerDialogBuilder;
+import com.zydl.util.R;
+import com.zydl.util.rxview.colorpicker.builder.ColorPickerClickListener;
+import com.zydl.util.rxview.colorpicker.builder.ColorPickerDialogBuilder;
 
 
 /**

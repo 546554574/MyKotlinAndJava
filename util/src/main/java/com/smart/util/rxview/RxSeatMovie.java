@@ -1,4 +1,4 @@
-package com.smart.util.rxview;
+package com.zydl.util.rxview;
 
 import android.animation.Animator;
 import android.animation.TypeEvaluator;
@@ -27,8 +27,8 @@ import android.view.animation.DecelerateInterpolator;
 import android.widget.Toast;
 
 
-import com.smart.util.R;
-import com.smart.util.rxtool.RxImageTool;
+import com.zydl.util.R;
+import com.zydl.util.rxtool.RxImageTool;
 
 import java.util.ArrayList;
 import java.util.Collections;

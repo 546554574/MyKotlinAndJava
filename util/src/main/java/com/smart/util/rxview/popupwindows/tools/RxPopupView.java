@@ -1,4 +1,4 @@
-package com.smart.util.rxview.popupwindows.tools;
+package com.zydl.util.rxview.popupwindows.tools;
 
 import android.content.Context;
 import android.support.annotation.IntDef;
@@ -7,7 +7,7 @@ import android.view.View;
 import android.view.ViewGroup;
 
 
-import com.smart.util.R;
+import com.zydl.util.R;
 
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;

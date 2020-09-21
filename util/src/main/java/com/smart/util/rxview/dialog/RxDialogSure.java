@@ -1,4 +1,4 @@
-package com.smart.util.rxview.dialog;
+package com.zydl.util.rxview.dialog;
 
 import android.content.Context;
 import android.text.method.LinkMovementMethod;
@@ -8,9 +8,9 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.smart.util.R;
-import com.smart.util.rxtool.RxRegTool;
-import com.smart.util.rxtool.RxTextTool;
+import com.zydl.util.R;
+import com.zydl.util.rxtool.RxRegTool;
+import com.zydl.util.rxtool.RxTextTool;
 
 
 /**

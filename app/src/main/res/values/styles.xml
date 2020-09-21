@@ -34,11 +34,6 @@
         <item name="android:windowBackground">@android:color/transparent</item>
         <!-- 模糊 -->
         <item name="android:backgroundDimEnabled">true</item>
-        <item name="android:windowAnimationStyle">@style/animationDialog</item>
     </style>
 
-    <style name="animationDialog" parent="android:Animation">
-        <item name="android:windowEnterAnimation">@anim/enter_animation</item>
-        <item name="android:windowExitAnimation">@anim/exit_animation</item>
-    </style>
 </resources>

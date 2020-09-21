@@ -1,4 +1,4 @@
-package com.smart.util.rxview.wheelhorizontal;
+package com.zydl.util.rxview.wheelhorizontal;
 
 import android.animation.Animator;
 import android.animation.ObjectAnimator;
@@ -12,7 +12,7 @@ import android.graphics.PorterDuffXfermode;
 import android.graphics.drawable.Drawable;
 import android.util.AttributeSet;
 
-import com.smart.util.R;
+import com.zydl.util.R;
 
 
 /**

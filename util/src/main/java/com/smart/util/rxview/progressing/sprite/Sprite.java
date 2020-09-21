@@ -1,4 +1,4 @@
-package com.smart.util.rxview.progressing.sprite;
+package com.zydl.util.rxview.progressing.sprite;
 
 import android.animation.ValueAnimator;
 import android.graphics.Camera;
@@ -13,7 +13,7 @@ import android.util.FloatProperty;
 import android.util.IntProperty;
 import android.util.Property;
 
-import com.smart.util.rxtool.RxAnimationTool;
+import com.zydl.util.rxtool.RxAnimationTool;
 
 
 /**

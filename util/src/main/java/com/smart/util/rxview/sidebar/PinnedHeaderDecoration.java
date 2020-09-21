@@ -1,4 +1,4 @@
-package com.smart.util.rxview.sidebar;
+package com.zydl.util.rxview.sidebar;
 
 import android.graphics.Canvas;
 import android.graphics.Rect;

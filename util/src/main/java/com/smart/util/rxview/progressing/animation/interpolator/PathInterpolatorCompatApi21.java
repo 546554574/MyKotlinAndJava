@@ -1,4 +1,4 @@
-package com.smart.util.rxview.progressing.animation.interpolator;
+package com.zydl.util.rxview.progressing.animation.interpolator;
 
 import android.annotation.TargetApi;
 import android.graphics.Path;

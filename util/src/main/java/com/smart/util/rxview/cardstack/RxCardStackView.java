@@ -1,4 +1,4 @@
-package com.smart.util.rxview.cardstack;
+package com.zydl.util.rxview.cardstack;
 
 import android.annotation.TargetApi;
 import android.content.Context;
@@ -16,14 +16,14 @@ import android.view.ViewParent;
 import android.widget.OverScroller;
 
 
-import com.smart.util.R;
-import com.smart.util.rxview.cardstack.tools.RxAdapterAllMoveDownAnimator;
-import com.smart.util.rxview.cardstack.tools.RxAdapterAnimator;
-import com.smart.util.rxview.cardstack.tools.RxAdapterStack;
-import com.smart.util.rxview.cardstack.tools.RxAdapterUpDownAnimator;
-import com.smart.util.rxview.cardstack.tools.RxAdapterUpDownStackAnimator;
-import com.smart.util.rxview.cardstack.tools.RxScrollDelegate;
-import com.smart.util.rxview.cardstack.tools.RxStackScrollDelegateImpl;
+import com.zydl.util.R;
+import com.zydl.util.rxview.cardstack.tools.RxAdapterAllMoveDownAnimator;
+import com.zydl.util.rxview.cardstack.tools.RxAdapterAnimator;
+import com.zydl.util.rxview.cardstack.tools.RxAdapterStack;
+import com.zydl.util.rxview.cardstack.tools.RxAdapterUpDownAnimator;
+import com.zydl.util.rxview.cardstack.tools.RxAdapterUpDownStackAnimator;
+import com.zydl.util.rxview.cardstack.tools.RxScrollDelegate;
+import com.zydl.util.rxview.cardstack.tools.RxStackScrollDelegateImpl;
 
 import java.util.ArrayList;
 import java.util.List;

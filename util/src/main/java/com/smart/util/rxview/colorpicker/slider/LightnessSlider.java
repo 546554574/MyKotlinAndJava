@@ -1,4 +1,4 @@
-package com.smart.util.rxview.colorpicker.slider;
+package com.zydl.util.rxview.colorpicker.slider;
 
 import android.content.Context;
 import android.graphics.Canvas;
@@ -7,9 +7,9 @@ import android.graphics.Paint;
 import android.graphics.PorterDuff;
 import android.util.AttributeSet;
 
-import com.smart.util.rxtool.RxImageTool;
-import com.smart.util.rxview.colorpicker.ColorPickerView;
-import com.smart.util.rxview.colorpicker.builder.PaintBuilder;
+import com.zydl.util.rxtool.RxImageTool;
+import com.zydl.util.rxview.colorpicker.ColorPickerView;
+import com.zydl.util.rxview.colorpicker.builder.PaintBuilder;
 
 
 /**

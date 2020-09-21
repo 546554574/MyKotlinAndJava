@@ -1,4 +1,4 @@
-package com.smart.util.rxview.dialog;
+package com.zydl.util.rxview.dialog;
 
 import android.app.Activity;
 import android.content.Context;
@@ -6,9 +6,9 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.TextView;
 
-import com.smart.util.R;
-import com.smart.util.rxtool.view.RxToast;
-import com.smart.util.rxview.progressing.SpinKitView;
+import com.zydl.util.R;
+import com.zydl.util.rxtool.view.RxToast;
+import com.zydl.util.rxview.progressing.SpinKitView;
 
 
 /**

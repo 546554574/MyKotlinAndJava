@@ -1,4 +1,4 @@
-package com.smart.util;
+package com.zydl.util;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

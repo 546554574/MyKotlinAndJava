@@ -1,4 +1,4 @@
-package com.smart.util.rxview.roundprogressbar.common;
+package com.zydl.util.rxview.roundprogressbar.common;
 
 import android.annotation.SuppressLint;
 import android.annotation.TargetApi;
@@ -18,7 +18,7 @@ import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import com.smart.util.R;
+import com.zydl.util.R;
 
 
 /**

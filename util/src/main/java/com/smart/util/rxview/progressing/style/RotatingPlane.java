@@ -1,10 +1,10 @@
-package com.smart.util.rxview.progressing.style;
+package com.zydl.util.rxview.progressing.style;
 
 import android.animation.ValueAnimator;
 import android.graphics.Rect;
 
-import com.smart.util.rxview.progressing.animation.SpriteAnimatorBuilder;
-import com.smart.util.rxview.progressing.sprite.RectSprite;
+import com.zydl.util.rxview.progressing.animation.SpriteAnimatorBuilder;
+import com.zydl.util.rxview.progressing.sprite.RectSprite;
 
 
 /**

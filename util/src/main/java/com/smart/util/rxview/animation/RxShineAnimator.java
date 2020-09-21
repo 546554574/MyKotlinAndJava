@@ -1,11 +1,11 @@
-package com.smart.util.rxview.animation;
+package com.zydl.util.rxview.animation;
 
 import android.animation.ValueAnimator;
 import android.graphics.Canvas;
 
-import com.smart.util.rxview.likeview.tools.RxShineView;
-import com.smart.util.rxview.likeview.tools.ei.RxEase;
-import com.smart.util.rxview.likeview.tools.ei.RxEasingInterpolator;
+import com.zydl.util.rxview.likeview.tools.RxShineView;
+import com.zydl.util.rxview.likeview.tools.ei.RxEase;
+import com.zydl.util.rxview.likeview.tools.ei.RxEasingInterpolator;
 
 
 /**

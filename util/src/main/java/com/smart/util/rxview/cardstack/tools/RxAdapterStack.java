@@ -1,10 +1,10 @@
-package com.smart.util.rxview.cardstack.tools;
+package com.zydl.util.rxview.cardstack.tools;
 
 import android.content.Context;
 import android.view.LayoutInflater;
 
 
-import com.smart.util.rxview.cardstack.RxCardStackView;
+import com.zydl.util.rxview.cardstack.RxCardStackView;
 
 import java.util.ArrayList;
 import java.util.List;
