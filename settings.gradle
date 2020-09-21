@@ -1,1 +1,1 @@
-include ':app', ':util', ':changeskin'
+include ':app', ':util', ':RxUI', ':RxKit', ':pickerview', ':RxFeature'

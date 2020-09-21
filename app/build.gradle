@@ -64,7 +64,6 @@ dependencies {
     //消息红点  https://github.com/qstumn/BadgeView
     implementation 'me.leolin:ShortcutBadger:1.1.22@aar'
     implementation 'com.tencent.bugly:crashreport:latest.release'
-    implementation project(path: ':changeskin')
     implementation 'com.nineoldandroids:library:2.4.0'
     implementation 'com.github.yalantis:ucrop:2.2.2-native'
     //Zxing核心包

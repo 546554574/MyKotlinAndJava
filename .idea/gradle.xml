@@ -8,12 +8,16 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/RxFeature" />
+            <option value="$PROJECT_DIR$/RxKit" />
+            <option value="$PROJECT_DIR$/RxUI" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/changeskin" />
+            <option value="$PROJECT_DIR$/pickerview" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
+        <option name="testRunner" value="PLATFORM" />
       </GradleProjectSettings>
     </option>
   </component>
